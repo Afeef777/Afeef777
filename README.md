@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Afeef Shaji  
 
-**Software Engineer | Full Stack Developer | MCA Graduate ()**  
+**Software Engineer | Full Stack Developer | MCA Graduate**  
 Building scalable, performance-focused, and real-world web applications.
 
 📍 Kottayam, Kerala  
