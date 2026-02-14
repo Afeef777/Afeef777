@@ -52,10 +52,10 @@ A scalable full-stack agricultural marketplace platform connecting farmers and b
 - Designed modular REST APIs for users, products, auctions, and transactions
 - Implemented location-aware product discovery
 - Integrated ML-based fertilizer recommendation module (Python + Scikit-learn)
-- Architected a secure Auction Engine using Node.js & MongoDB, implementing SHA-256 hash chaining and RSA
-  digital signatures to ensure bid immutability and data integrity.
-- Developed an automated tamper-detection system (<1ms latency) that suspends compromised auctions and
-  triggers zero-downtime recovery.
+- **Architected a secure Auction Engine using Node.js & MongoDB, implementing SHA-256 hash chaining and RSA
+  digital signatures to ensure bid immutability and data integrity**.
+-**Developed an automated tamper-detection system (<1ms latency) that suspends compromised auctions and
+  triggers zero-downtime recovery**.
 - Structured the system for modularity, performance, and real-time consistency.
 
 Built with scalability, performance optimization, and structured backend flow in mind.
