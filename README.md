@@ -5,7 +5,7 @@ Building scalable, performance-focused, and real-world web applications.
 
 📍 Kottayam, Kerala  
 📧 contact.afeefshaji@gmail.com  
-🔗 LinkedIn  
+🔗 linkedin.com/in/afeefshaji
 
 ---
 
@@ -54,7 +54,7 @@ A scalable full-stack agricultural marketplace platform connecting farmers and b
 - Integrated ML-based fertilizer recommendation module (Python + Scikit-learn)
 - Architected a secure Auction Engine using Node.js & MongoDB, implementing SHA-256 hash chaining and RSA
   digital signatures to ensure bid immutability and data integrity.
-- Developed an automated tamper-detection system (<5ms latency) that suspends compromised auctions and
+- Developed an automated tamper-detection system (<1ms latency) that suspends compromised auctions and
   triggers zero-downtime recovery.
 - Structured the system for modularity, performance, and real-time consistency.
 
